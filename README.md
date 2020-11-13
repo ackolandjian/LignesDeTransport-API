@@ -27,4 +27,4 @@ Slides are available [here](https://docs.google.com/presentation/d/16A2KWAtrzli1
 
 ## Slides
 
-Slides are available [here](https://docs.google.com/presentation/d/16A2KWAtrzli1kY2_uALsbOGIJS8ZP-pPOhl_BZZ7Lag/edit?usp=sharing).
+Slides are available [here]( https://docs.google.com/presentation/d/1mwu2xx7_qfCZDfsRxseC94n7oBGYfhw-9xIftaTDbzk/edit#slide=id.p97).
